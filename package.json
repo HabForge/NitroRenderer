@@ -1,6 +1,6 @@
 {
-  "name": "@nitrots/nitro-renderer",
-  "description": "Javascript library for rendering Nitro in the browser using PixiJS",
+  "name": "@habforge/nitro-renderer",
+  "description": "Rendering engine for Nitro using PixiJS",
   "version": "2.0.0",
   "private": true,
   "type": "module",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/billsonnn/nitro-renderer.git"
+    "url": "https://github.com/HabForge/NitroRenderer.git"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/billsonnn/nitro-renderer/issues"
+    "url": "https://github.com/HabForge/NitroRenderer/issues"
   },
-  "homepage": "https://github.com/billsonnn/nitro-renderer",
+  "homepage": "https://github.com/HabForge/NitroRenderer",
   "scripts": {
     "build": "vite build",
     "compile": "tsc --project ./tsconfig.json --noEmit false",

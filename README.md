@@ -1,17 +1,17 @@
 # Nitro Renderer
 
-nitro-renderer is a Javascript library for rendering Nitro in the browser using PixiJS
+Rendering engine for [Nitro](https://github.com/HabForge/Nitro) using PixiJS.
 
 ## Installation
 
-npm
+**npm**
 
 ```
-npm install @nitrots/nitro-renderer
+npm install @habforge/nitro-renderer
 ```
 
-yarn
+**yarn**
 
 ```
-yarn add @nitrots/nitro-renderer
+yarn add @habforge/nitro-renderer
 ```
