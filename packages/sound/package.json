@@ -11,9 +11,9 @@
   "dependencies": {
     "@nitrots/api": "1.0.0",
     "@nitrots/communication": "1.0.0",
-    "pixi.js": "^8.2.5"
+    "pixi.js": "^8.4.0"
   },
   "devDependencies": {
-    "typescript": "~5.5.4"
+    "typescript": "~5.6.2"
   }
 }
